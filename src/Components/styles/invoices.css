@@ -1,0 +1,7 @@
+ul{
+    display: block;
+}
+
+ul > li > p{
+    color:rgb(243, 255, 240);
+}
